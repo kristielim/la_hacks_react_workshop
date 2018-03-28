@@ -5,6 +5,7 @@ live code-along as well as information on how to
 set up the project before the workshop begins.
 
 We will be building a simple tic-tac-toe game.
+See [https://reactjs.org/tutorial/tutorial.html] (https://reactjs.org/tutorial/tutorial.html) for the basis of this tutorial.
 
 Requirements before beginning the example:
 
